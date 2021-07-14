@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Park%20Taewoong&fontSize=90)
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Park%20Taewoong&fontSize=90)
+<div align="center">
 
+### Hi there 👋
+</div>
 <!--
 **sisun1225/sisun1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
